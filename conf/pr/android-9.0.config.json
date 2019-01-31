@@ -1,5 +1,5 @@
 {
-    "platform": "android",
+    "platform": "android@8.0.0-nightly.2019.1.31.54df4a11",
     "action": "run",
     "cleanUpAfterRun": true,
     "saucePlatformVersion": "9.0",
